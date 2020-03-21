@@ -1,2 +1,2 @@
 # todo
-A todo application using react
+A todo application using React and Redux
